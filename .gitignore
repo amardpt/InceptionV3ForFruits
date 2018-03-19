@@ -4,4 +4,4 @@ build
 *.iml
 out
 lib
-src/main/resources/inception-v3
+
